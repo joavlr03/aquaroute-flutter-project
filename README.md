@@ -104,8 +104,14 @@ lib/
 - Logo **AquaRoute** com animação de escala e fade
 - Indicador de carregamento com texto "Conectando aos satélites..."
 - Redirecionamento automático para o Intro após 3 segundos
+  
+### Tela
+
+<img width="567" height="1018" alt="Tela Splash (Simulação dde conexão com satélite)" src="https://github.com/user-attachments/assets/df39f2c5-b1c8-4c2c-afbc-106184bfa3f9" />
 
 ---
+
+
 
 ### 2. Intro Screen (Onboarding)
 Apresenta o app em **3 slides** com navegação por botões e indicador de progresso (dots):
@@ -120,6 +126,12 @@ Apresenta o app em **3 slides** com navegação por botões e indicador de progr
 - Botão **Voltar** (slides 2 e 3)
 - Botão **Pular** (acesso direto ao app)
 
+### Tela
+<img width="558" height="1016" alt="Tela 1 de Introdução" src="https://github.com/user-attachments/assets/85ff51b9-fae4-4c34-890f-444dee873256" />
+<img width="576" height="1032" alt="Tela 2 de Introdução" src="https://github.com/user-attachments/assets/872bdb3b-d18f-449a-baf9-a87c1b49139c" />
+<img width="564" height="1016" alt="Tela 3 de introdução" src="https://github.com/user-attachments/assets/9f5b5b1a-22a7-4985-9d5f-703fbe30be26" />
+
+
 ---
 
 ### 3. Home (Dashboard)
@@ -130,6 +142,10 @@ Visão geral do sistema em tempo real:
 - **CTA de Rota**: atalho rápido para o planejador
 - **Alertas recentes**: 3 alertas mais recentes com severidade
 - **Rios Amazônicos**: listagem prévia dos principais rios
+
+### Tela
+
+<img width="560" height="1032" alt="Tela Inicial" src="https://github.com/user-attachments/assets/929dbcfe-a531-46a1-8926-a0e5510c9f70" />
 
 ---
 
@@ -144,6 +160,10 @@ Monitoramento detalhado de cada rio:
   - Barra de progresso do nível (% do máximo)
   - Botão de **favoritar** (estrela)
 
+### Tela
+
+<img width="574" height="1025" alt="Tela de rios" src="https://github.com/user-attachments/assets/fa39ae91-2900-463b-895b-6d691ee7357e" />
+
 ---
 
 ### 5. Alertas
@@ -156,6 +176,10 @@ Central de alertas com filtragem por severidade:
   - Título, descrição e nome do rio
   - Tempo decorrido ("Há 15min", "Há 2h")
   - Badge de severidade colorido
+
+### Tela
+
+<img width="576" height="1031" alt="Tela de Alertas" src="https://github.com/user-attachments/assets/d6340ef2-c305-4251-b3b3-91dae90d8a7d" />
 
 ---
 
@@ -186,6 +210,13 @@ O app retorna **3 opções de rota**, cada uma com foco diferente:
   - Waypoints com tipo (Porto, Posto de Combustível, Comunidade)
   - Botão **"Usar esta rota"**
 
+### Tela
+
+<img width="569" height="1021" alt="Escolha de rotas" src="https://github.com/user-attachments/assets/d3a19f79-6a8e-4d27-89ed-376e46387dcc" />
+
+
+<img width="560" height="710" alt="Rota detalhes" src="https://github.com/user-attachments/assets/f81eaf46-50c3-44f8-8b4d-4e85a2dd4c41" />
+
 ---
 
 ### 7. Tempo
@@ -197,6 +228,10 @@ Previsão meteorológica para navegação:
   - ✅ Verde: condições favoráveis
   - 🔶 Âmbar: chuvas moderadas, cautela
   - ⚠️ Vermelho: precipitação intensa, evitar navegação
+
+### Tela
+
+<img width="573" height="1025" alt="Previsão do tempo" src="https://github.com/user-attachments/assets/7c14e5fe-c045-47ce-a321-0bfeb77f32ac" />
 
 ---
 
